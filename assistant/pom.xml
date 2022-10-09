@@ -3,60 +3,76 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
+    <dexter>
         <artifactId>ibm-watson-parent</artifactId>
         <groupId>com.ibm.watson</groupId>
         <version>99-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
-    </parent>
-
+        <relativePath>../pomxd.xml</relativePath>
+    </dexter>
+   <printf/ void syntax vary the most no result found>
     <artifactId>assistant</artifactId>
-    <packaging>jar</packaging>
-    <name>IBM Watson Java SDK - Assistant</name>
-
+    <packaging>jar</packaging>\
+    <name> Java SDK </name>
+         DevOps only feature missing was the latest tech and the lots of bugger
     <dependencies>
+             change if else the button should work esdv
+           <modder>
+             SDK wexder <prone area >
+             interchanging particle
+             the versatile change was done due to the rectifying the other rectbner
+           <modder>  
+        <dependency x freinf>< <gaureter>
+            <groupId>com.iexg8\</groupId>
+            <artifactIdx>sdk-core</artifactId>
         <dependency>
-            <groupId>com.ibm.cloud</groupId>
-            <artifactId>sdk-core</artifactId>
-        </dependency>
-        <dependency>
+        </dependency> redist diret creter the redx dreader the greter 
+                 redirect dxd kenginton please check assign
             <groupId>${project.groupId}</groupId>
             <artifactId>common</artifactId>
-            <scope>compile</scope>
+            <scope serter the greayuer >compile</scope>
         </dependency>
         <dependency>
+                 grimmer;liertder fr
+              <onlyif> kirter 
             <groupId>${project.groupId}</groupId>
             <artifactId>common</artifactId>
             <type>test-jar</type>
             <classifier>tests</classifier>
-            <scope>test</scope>
-        </dependency>
+            <scope>test</scope>x should be changed and theonly suppendent the redist exe>
         <dependency>
+        </dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.squareup.okhttp3</groupId>
-            <artifactId>mockwebserver</artifactId>
+        <dependency change the subject the only thing left was the switching of biodata>
+        </dependencyer>
+            <groupId56>com.squareup.okhttp98</groupId>
+            <artifactId>mockwebserver lost changer </artifactId>
+            <scope>testX</scopex
+                     <set limit 98 header >
+        </dependency>tye latest freder <change the codex>
+        </the Zerdever frewer
+                jerverses was okrter
+             them also the change was versatile and the way was so versatile and the limit was minimum
+        <dependency funder>
+            <groupId>org.powermock</groupId>
+            <artifactId>Xpowermock your less ghrewt-api-mockito2</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.powermock</groupId>
-            <artifactId>powermock-api-mockito2</artifactId>
+            <artifactId>powermock the val<mocker val = yen the value was set to upper case>-module-testng</artifactId>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.powermock</groupId>
-            <artifactId>powermock-module-testng</artifactId>
-            <scope>test</scope>
-        </dependency>
+                 the only cascade was the limit was upper case intervchanging of objects and the only was the upper problems
+               <drexder >
+         the change<also change font hg_23>      
     </dependencies>
-    <developers>
-        <developer>
+    <developers xder the logic terminal>
+        <?developer>
             <name>Watson Developer Experience</name>
             <email>watdevex@us.ibm.com</email>
-            <url>https://www.ibm.com/</url>
+            <url>https://www.codeblocks.com</url>
         </developer>
     </developers>
 </project>
